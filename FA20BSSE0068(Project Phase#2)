@@ -1,0 +1,35 @@
+                                   Bussiness Processess of Hotal Reservation System
+This project "hotal reservation system" consists of four use cases
+1. Reserve the Rooms
+2. Arrange Transport 
+3. Check_in process
+4. Check_out process
+
+
+
+1:  Description OF Room Reservation process
+Onces hotal booking request received by hotal manager.The manger check the availability of rooms, 
+if  rooms are not availabe manager cancel the booking request but if the rooms are availabe then 
+Guest are  allowed to select the room.and when they select rooms, the booking conformed.Now manager
+emite receipt of rooms and guest received conformation mail and finally booking request accepted.
+
+2:  Description OF Arrange Transport
+When  hotal received transport request. The stuff check for the availability of vehicles, if there 
+are not vehicle present the customer is suggested to arrange transport himself but if vehicles are
+present in hotal the hotal staff allowed him to select vehicle. Once customer select the vehical then
+staff gather customer details like location and time, then  submite vehicle conformation and at last
+when customer received vehical the transport request completes
+  
+3: Description OF Check_in process
+On Guest arrival the hotal stuff check for booked room proof, if guests have no any valid proof of booked room
+provided by hotal ,the stuff not allowed guest to enter hotal but if guestes have valid proof of booked room then
+customer are allowed to enter hotal.The process continuoue by carring guest luggage to selected room and enter their 
+entry time and date, then the check_in process complete with  rooms acieved by customer.
+
+4. Description OF Check_out process
+When check out time reached,the hotal stuff inform guest and The stuff check for guest dues,if there 
+remains any dues on guests, the stuff not allow the guests to leave the hotal but if guests has no any remaining dues,
+update the record of guest leaving time and also stuff check the room parrallel for availablity of rooms key and for any 
+luggage forgot by guest in room. if   keys found in room  and luggage not remains in the room ,the guest is then allowed
+to check out the hotal .       
+ 
